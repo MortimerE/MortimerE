@@ -2,7 +2,7 @@
 - I make software, music, and positive life choices (sometimes).
 - I'm a student at Georgia Tech working on my master's of Computer Science
 - I'm currently working on building my repos, as most of my work has been previously dedicated to academic or professional settings. 
-- I'm interested in projects related to Human-Centric Computing (Especially HRI), ML (especially computer vision & NLP), Blockchain, VR, Audio, Quantum Computing, and Sociopolitical & Environmental Causes
+- I'm interested in projects related to Human-Centric Computing (Especially HRI), ML (especially computer vision & NLP), Blockchain, VR & 3DGS, Audio, Gaming, Quantum Computing, and Sociopolitical & Environmental Causes
 - Shoot me an email at emortimert@gmail.com if you'd like to connect about work!
 
 <!---
